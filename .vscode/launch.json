@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost/JS/index.html",
+            "request": "launch",
+            "url": "http://localhost/JS/index.html"
+        }
+    ]
+}
